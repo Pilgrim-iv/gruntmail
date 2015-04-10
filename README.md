@@ -6,6 +6,8 @@ Setup for html email
 Uses Ink emailing template and class structure. Will require downloading Ink initially, if you want to use their templates and css.
 http://zurb.com/ink/
 
+templates here: http://zurb.com/ink/templates.php
+
 Example used here is the sidebar-hero.html
 
 ink.css is the css that comes with ink emailing templates and contains all the class styling for default
